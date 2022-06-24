@@ -1,2 +1,2 @@
 # dordle
-Dordle clone in Rust
+CLI [Dordle](https://zaratustra.itch.io/dordle) clone in Rust.
